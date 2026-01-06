@@ -37,5 +37,5 @@ I'm passionate about sports too. Nowadays, i'm practicing **volleyball** and **b
 ### 📫 How to reach me:
 
 - LinkedIn: [www.linkedin.com/in/alexandre-yamaguishi](https://www.linkedin.com/in/alexandre-yamaguishi)
-- GitHub: [https://github.com/barf90](https://github.com/barf90)
+- GitHub: [https://github.com/barf90](https://github.com/jampus90)
 - Email: alexandre.yama2@gmail.com
