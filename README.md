@@ -36,7 +36,7 @@ Occasionally, I collaborate on the frontend using **Angular**, helping deliver f
 ### 🌟 Beyond Code:
 
 I’m actively involved in leadership roles in cultural organizations and enjoy contributing to community-driven initiatives.
-I’m also passionate about sports — currently practicing **volleyball** and **baseball**.
+I’m also passionate about sports — currently practicing **volleyball**, **baseball** and **table tennis**
 
 ---
 
